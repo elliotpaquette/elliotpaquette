@@ -1,0 +1,6 @@
+In inkscape:
+1) select all of an svg
+2) object->group 
+3) make circle, radius 182 px
+4) place circle at 7px, 7px
+5) select group, then select, circle, right click, set clip
